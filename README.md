@@ -4,6 +4,9 @@ Get AppMeter score for any App. The score considers multiple factors like price,
 Prediction analysis about the success of App. (Useful for Marketing/Executives) for deciding the Price
 Analyze the Apps in a particular Genre (Social Media, Games, Fitness) to see the overall rating, downloads, Price etc
 
-## Please create new folder for specific type of files. Example] Python, PHP
-## Create folder for data (keep seperate folders for original data and transformed data)
-## Please follow strict code convention guidelines
+### The repository contains different folders for
+
+1. Final project report and presentation
+2. Python data cleaning and machine learning code
+3. Website design code (HTML, CSS, JS, PHP, AJAX)
+4. Analytics dashboard - Power BI
